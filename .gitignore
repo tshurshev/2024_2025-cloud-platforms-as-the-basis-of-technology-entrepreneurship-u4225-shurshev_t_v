@@ -1,0 +1,56 @@
+# Создано с помощью ИИ, думаю навряд ли тут необходим гитигнор
+# Игнорировать файлы окружения (НИКОГДА не коммитьте туда пароли, ключи API!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Временные файлы операционной системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Временные файлы редакторов и IDE
+# Например, для Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Для JetBrains IDE (PyCharm, IntelliJ, WebStorm)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Для Vim
+*.swp
+*.swo
+*~
+
+# Папки зависимостей (для Python, Node.js и т.д.)
+# Они устанавливаются командой `pip install` или `npm install`, их не нужно хранить в гите
+venv/
+env/
+ENV/
+.env/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
