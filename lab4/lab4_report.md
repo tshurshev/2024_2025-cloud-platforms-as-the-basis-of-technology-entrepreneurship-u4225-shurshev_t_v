@@ -75,7 +75,7 @@ Date of finished: 17.09.2025
 *   Этап Beta (в мес.) = Cloud Run(~6) + Cloud Storage(~0) + Firestore(~0) + Cloud CDN(~6) = ~12$
   <img width="398" height="617" alt="image" src="https://github.com/user-attachments/assets/a04fcc9c-4924-4333-bf91-e8986ce140cc" />
   
-*   Этап Production (в мес.) = Cloud Run(~123) + Cloud Storage(~0) + Cloud SQL(~73) + Cloud CDN(~15) + Load Balancer(~20) = ~140$
+*   Этап Production (в мес.) = Cloud Run(~123) + Cloud Storage(~0) + Cloud SQL(~73) + Cloud CDN(~15) + Load Balancer(~20) = ~231$
   <img width="527" height="743" alt="image" src="https://github.com/user-attachments/assets/11725c85-472e-4138-bc83-a36ed7a85a0a" />
                                                                                   
 
